@@ -1,4 +1,4 @@
 *.pkl
 *.pyc
 *.bin
-Tests/.env.AIKEYS
+*.env
